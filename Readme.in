@@ -1,0 +1,24 @@
+Twitter Analytics Dashboard
+
+## Tool
+Power BI Desktop
+
+## Dataset
+Twitter dataset (Kaggle)
+
+## Features
+- Time-based visual visibility (IST)
+- Advanced tweet filtering
+- Engagement analytics
+- Interactive dashboards
+
+## Visuals Implemented
+1. Media engagement scatter
+2. Interaction breakdown
+3. Top tweets
+4. Monthly engagement trends
+5. Media impact analysis
+6. App open comparison
+
+## Live Dashboard
+(Add Power BI public link here)
